@@ -1,6 +1,18 @@
 # Ng5Material
 
+This Project is a sample POC for angular material.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
+
+## Extra Packages
+
+npm i --save @angular/animations @angular/material @angular/cdk
+
+npm install --save hammerjs
+
+## Reference
+
+https://material.angular.io/guide/getting-started
 
 ## Development server
 
